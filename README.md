@@ -11,7 +11,6 @@ Highlights:
 - ⭐ At the end Deployment like a pro for FREE!
 - ⏳ And much more!
 
-### Setup .env file
 
 
 ### Build the app
